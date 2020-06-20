@@ -1,0 +1,56 @@
+{
+    "searches": [
+        {
+            "points": {
+                "important": [ "kenjiz", "kfc", "cafesserie" ],
+                "optional": [ "cafejavas", "kampalakitchen" ]
+            },
+            "place": "restaurant",
+            "engines": [
+                "google",
+                "bing",
+                "duck"
+            ],
+            "frequency": "weekly"
+        },
+        {
+            "points": {
+                "important": [ "shell", "cityoil", "total" ],
+                "optional": [ "mogas", "oryx" ]
+            },
+            "place": "fuel",
+            "engines": [
+                "google",
+                "bing",
+                "duck"
+            ],
+            "frequency": "daily"
+        },
+        {
+            "points": {
+                "important": [ "mulago", "kampala", "nakasero" ],
+                "optional": [ "kadic", "agakhan" ]
+            },
+            "place": "hospital",
+            "engines": [
+                "google",
+                "bing",
+                "duck"
+            ],
+            "frequency": "monthly"
+        },
+        {
+            "points": {
+                "important": [ "game", "capitalshoppers", "shoprite" ],
+                "optional": [ "jumia", "quality" ]
+            },
+            "place": "shopping",
+            "engines": [
+                "google",
+                "bing",
+                "duck"
+            ],
+            "frequency": "daily"
+        }
+    ]
+}
