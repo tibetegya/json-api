@@ -1,6 +1,7 @@
 {
     "searches": [
         {
+            "id": "search_1",
             "points": {
                 "important": [ "kenjiz", "kfc", "cafesserie" ],
                 "optional": [ "cafejavas", "kampalakitchen" ]
@@ -14,6 +15,7 @@
             "frequency": "weekly"
         },
         {
+            "id": "search_2",
             "points": {
                 "important": [ "shell", "cityoil", "total" ],
                 "optional": [ "mogas", "oryx" ]
@@ -27,6 +29,7 @@
             "frequency": "daily"
         },
         {
+            "id": "search_3",
             "points": {
                 "important": [ "mulago", "kampala", "nakasero" ],
                 "optional": [ "kadic", "agakhan" ]
@@ -40,6 +43,7 @@
             "frequency": "monthly"
         },
         {
+            "id": "search_4",
             "points": {
                 "important": [ "game", "capitalshoppers", "shoprite" ],
                 "optional": [ "jumia", "quality" ]
